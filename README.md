@@ -9,6 +9,7 @@
 
 ### Μάθημα 3
 
+<hr>
 
 ### Πηγές:
 [ΕΙΣΑΓΩΓΗ ΣΤΗΝ HTML.pdf](https://github.com/addboo/IEK-WEB/files/6125691/1.HTML.pdf)

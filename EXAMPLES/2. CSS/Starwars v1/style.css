@@ -1,0 +1,19 @@
+#main-content
+{
+    width: 780px;
+    float: left;
+}
+
+#news
+{
+    margin-left: 20px;
+    float: left;
+    width: 180px;
+}
+
+img.post
+{
+  float: left;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}

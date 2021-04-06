@@ -9,6 +9,7 @@
 
 [Πίνακες (tables)](https://github.com/addboo/HTML/blob/master/4.%20%CE%A0%CE%AF%CE%BD%CE%B1%CE%BA%CE%B5%CF%82.md)
 
+[Σύνδεσμοι (links)](https://github.com/addboo/HTML/blob/master/6.%20%CE%A3%CF%8D%CE%BD%CE%B4%CE%B5%CF%83%CE%BC%CE%BF%CE%B9%20(links).md)
 <br>
 
 ### Εισαγωγή στην CSS

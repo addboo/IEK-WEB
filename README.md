@@ -13,7 +13,12 @@
 <br>
 
 ### Εισαγωγή στην CSS
-[Εισαγωγή στην CSS.pdf](https://github.com/addboo/IEK-WEB/files/6127819/2.CSS.pdf)
+[Εισαγωγή στην CSS 1.pdf](https://github.com/addboo/IEK-WEB/files/6498967/2.CSS.-.pdf)
+
+[Εισαγωγή στην CSS 2.pdf](https://github.com/addboo/IEK-WEB/files/6127819/2.CSS.pdf)
+
+### Ασκήσεις εργαστηρίου
+[Lab_Week4.pdf](https://github.com/addboo/IEK-WEB/files/6498963/Lab_Week4.pdf)
 
 
 <hr>
